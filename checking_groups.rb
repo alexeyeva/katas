@@ -30,3 +30,4 @@ end
 
 
 puts group_check(@s)
+
